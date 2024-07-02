@@ -75,8 +75,8 @@ footer {
         flex-direction: column;
     }
     .img{
-        width: 2rem;
-        height: 2rem;
+        width: 8rem;
+        height: 8rem;
     }
     nav ul li {
         margin: 0;
